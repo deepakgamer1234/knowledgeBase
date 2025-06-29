@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-KnowledgebaseApplication<knowledgebase>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.test.knowledgebase.KnowledgebaseApplication",
+            "projectName": "knowledgebase",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
